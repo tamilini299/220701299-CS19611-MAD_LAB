@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LazzyLogger</string>
+
+    <!-- Main Screen -->
+    <string name="add_entry">Add New Entry</string>
+
+    <!-- New Entry Screen -->
+    <string name="title_hint">Enter Title</string>
+    <string name="content_hint">Enter Content</string>
+    <string name="save">Save Entry</string>
+
+    <!-- View Entry Screen -->
+    <string name="update">Update Entry</string>
+    <string name="delete">Delete Entry</string>
+</resources>
